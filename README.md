@@ -7,7 +7,7 @@ No specific order to any of these. Also limited to CS/Programming.
 Goal | Details/Reason | Status
 --- | --- | ---
 Get better at Vim | Need to be faster! | 
-Learn to touchtype properly, in Dvorak | Can;t be having RSI later in life. Plus, efficiency. | 
+Learn to touchtype properly, in Dvorak | Can't be having RSI later in life. Plus, efficiency. | 
 
 ##Programming Languages
 Goal | Details/Reason | Status
